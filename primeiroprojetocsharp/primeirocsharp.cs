@@ -1,0 +1,5 @@
+namespace fluxocaixa
+
+class FluxoCaixa {
+
+}
